@@ -11,4 +11,3 @@ Découvrez notre recette de hamburger maison.
 - Salade
 - Tomate
 - Fromage
-- Bacon
